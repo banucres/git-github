@@ -1,0 +1,24 @@
+git command
+
+Initialized empty Git repository
+git init
+
+to add file from central repository:
+git remote add origin "https://github.com/banucres/git-github.git"
+
+
+git pull origin master
+
+
+git status
+
+clear
+
+ git add -A
+git commit -a
+git log
+
+wq
+git branch firstbranch
+git checkout firstbranch
+git push origin firstbranch
